@@ -1,8 +1,4 @@
-'''
-Haar Cascade Face, Smile and Eye detection with OpenCV  
 
-Developed by Marcelo Rovai - MJRoBot.org @ 22Feb2018 
-'''
 
 import numpy as np
 import cv2
